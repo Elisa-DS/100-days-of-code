@@ -1,11 +1,11 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log 
 
 ### Day 0: 07 of June , 2019 
 
 
 **Today's Progress**: Studied "Lists" of my course in Codecademy Python 3.
 
-**Thoughts:** I really struggled in manage time to study, I hope after some days of these challenge I get better consistency.
+**Thoughts:** I really struggled in manage my time of study, I hope after some days of these challenge I get better consistency.
 
 
 
