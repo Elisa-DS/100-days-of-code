@@ -31,6 +31,7 @@
 ### Day 3: 09 of June, 2019
 
 **Today's Progress**: I've been reading the book; "Learn Python 3 the Hard Way"- I've dowloaded the PDF of this book .
+I'm also trying to understand better how works Github, I'm spending many hours reading about it.
 
 **Thoughts** According to the author - Zed A. Shaw:
 This book’s job is to teach you the three most essential skills that a beginning programmer needs to
