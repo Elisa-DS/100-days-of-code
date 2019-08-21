@@ -50,28 +50,32 @@ know: reading and writing, attention to detail, and spotting differences. I’m 
 **Thoughts**
 I’ve received some DM in Instagram asking why I chose Python instead of R. In my case my university suggest to learn Python first because it will be more used at classes but if I have time I can learn both. Then, I decided research about the differences from Python and R. I found the opinion of Steinert-Threlkeld interesting. 
 Check it below:
-. 
+
+
 R is the programming language most familiar to political scientists. An extension of S, a language developed at Bell Laboratories in the 1970s, R was designed by statisticians. While it can
 perform many general computation functions, its comparative advantage is in
 statistical analysis. When a new statistical procedure is developed, the first
 implementation is usually as an R package.
-.
+
+
 Python is a general purpose language tracing its lineage to 1989 and is most
 famous for having easy to read code. Whereas R was created for data analysis
 and has been extended to other purposes, Python was created to work with
 computers and has been extended to data analysis.
-.
+
+
 Neither R nor Python strictly dominates the other. Python has more developed
 tools for scraping web pages, but HadleyWickham’s rvest package narrows this
 gap. Python is generally faster, but new R packages such as data.table erase
 that difference on some dimensions. R’s syntax does not resemble that of other
 computer languages, but it is also easy to read and learn. 
-.
+
+
 The one area Python dominates R for data analysis is data storage: many more database products have
 Python libraries than R ones, though R has libraries for working with SQL.
-.
 R dominates Python in developing aesthetically pleasing graphics.
-.
+
+
 If you already know R, learning Python may be worthwhile, but the costs
 and benefits require careful consideration since either language can most likely
 accomplish your programming task, and human time is the most scarce resource
