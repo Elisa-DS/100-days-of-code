@@ -43,7 +43,7 @@ know: reading and writing, attention to detail, and spotting differences. I’m 
 
 **Thoughts** In the beginner is really tough go ahead, looks that process of learning goes slowly, you keep long time only learning syntax, it is not really fun but at the same time seems that build this foudation is really important for future.
 
-###{6/100} Day 6 of #100DaysofCode -  11 of June, 2019
+### Day 6 of #100DaysofCode -  11 of June, 2019
 
 **Today's Progress**: I've been studying Python by Codecademy.
 
@@ -79,7 +79,7 @@ on any project. The more likely you are to work with large amounts of data or
 colleagues from outside the social sciences, the more beneficial Python knowledge
 becomes. If you know neither R nor Python, the ideal would be learn both.
 
-###{7-8/100} Day 7-8 of #100DaysofCode - 12-13 of June, 2019 It's weekend!
+### Day 7-8 of #100DaysofCode - 12-13 of June, 2019 It's weekend!
 
 **Today's Progress**: I've been studying Python by Codecademy, I'm learning functions. 
 
@@ -95,7 +95,7 @@ Some tips to help when you feel overwhelmed:
 **3** - Don’t give up, follow your own pace (This is really important because when you look at other people work you normally feel that you're going slower but it is just impression).
 
 
-###{9/100} Day 9 of #100DaysofCode -  14 of June 
+### Day 9 of #100DaysofCode -  14 of June 
 
 **Today's Progress**: As the book - Learn Python 3 the Hard Way says to use terminal, I had to learn some basic commands that 
 
