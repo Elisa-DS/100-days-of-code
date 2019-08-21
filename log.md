@@ -37,3 +37,99 @@ I'm also trying to understand better how works Github, I'm spending many hours r
 This book’s job is to teach you the three most essential skills that a beginning programmer needs to
 know: reading and writing, attention to detail, and spotting differences. I’m super excited after read it, I think this is what I need to learn.
 
+### Day 4: 10 of June, 2019
+
+**Today's Progress**: I've been studying Python by Codecademy.
+
+**Thoughts** In the beginner is really tough go ahead, looks that process of learning goes slowly, you keep long time only learning syntax, it is not really fun but at the same time seems that build this foudation is really important for future.
+
+{6/100} Day 6 of #100DaysofCode -  11 of June, 2019
+
+**Today's Progress**: I've been studying Python by Codecademy.
+
+**Thoughts**
+I’ve received some DM in Instagram asking why I chose Python instead of R. In my case my university suggest to learn Python first because it will be more used at classes but if I have time I can learn both. Then, I decided research about the differences from Python and R. I found the opinion of Steinert-Threlkeld interesting. 
+Check it below 
+. 
+R is the programming language most familiar to political scientists. An extension of S, a language developed at Bell Laboratories in the 1970s, R was designed by statisticians. While it can
+perform many general computation functions, its comparative advantage is in
+statistical analysis. When a new statistical procedure is developed, the first
+implementation is usually as an R package.
+.
+Python is a general purpose language tracing its lineage to 1989 and is most
+famous for having easy to read code. Whereas R was created for data analysis
+and has been extended to other purposes, Python was created to work with
+computers and has been extended to data analysis.
+.
+Neither R nor Python strictly dominates the other. Python has more developed
+tools for scraping web pages, but HadleyWickham’s rvest package narrows this
+gap. Python is generally faster, but new R packages such as data.table erase
+that difference on some dimensions. R’s syntax does not resemble that of other
+computer languages, but it is also easy to read and learn. 
+.
+The one area Python dominates R for data analysis is data storage: many more database products have
+Python libraries than R ones, though R has libraries for working with SQL.
+.
+R dominates Python in developing aesthetically pleasing graphics.
+.
+If you already know R, learning Python may be worthwhile, but the costs
+and benefits require careful consideration since either language can most likely
+accomplish your programming task, and human time is the most scarce resource
+on any project. The more likely you are to work with large amounts of data or
+colleagues from outside the social sciences, the more beneficial Python knowledge
+becomes. If you know neither R nor Python, the ideal would be learn both.
+
+{7-8/100} Day 7-8 of #100DaysofCode - 12-13 of June, 2019 It's weekend!
+
+**Today's Progress**: I've been studying Python by Codecademy, I'm learning functions. 
+
+**Thoughts**
+Yesterday wasn’t easy day for me. I’m still struggling to understand the way you learn programming is not the same than other subjects that you learn only reading. I like to be out of my comfort zone, I like study coding but I miss when I had more time to study than nowadays(mum of 2, house, husband and everything in between to take care). I have to understand my limitation and  do things at my pace. I was really tired of study all day, then I decide take a rest during the night to be with my family. I still studying Python from the book - Learn Python 3 the Hard Way (Zed A. Shaw)(This is a great book for beginners, I really recommend - but as the name says you learn in the hard way!).
+.
+Some tips to help when you feel overwhelmed:
+
+Don’t compare your progress to others.
+
+Take breaks when necessary.
+
+Don’t give up, follow your own pace (This is really important because when you look at other people work you normally feel that you're going slower but it is just impression).
+
+
+{9/100} Day 9 of #100DaysofCode -  Happy Father’s Day! To my dad, to my husband and all amazing dads out there. 
+Today it was a good weather here in London, then we could enjoy a picnic at park,
+
+As the book - Learn Python 3 the Hard Way says to use terminal, I had to learn some basic commands that I’ll show here 
+
+1. ls
+The ls command - the list command 
+.
+2. cd
+.
+The cd command - change directory - will allow the user to change between file directories. 
+.
+3. mv
+.
+The mv command - move - allows a user to move a file to another folder or directory. 
+.
+4. mkdir
+.
+The mkdir - make directory - command allows the user to make a new directory. 
+.
+6. rmdir
+.
+The rmdir - remove directory -
+.
+7. touch
+.
+The touch command -  Just as the mkdir command makes directories, the touch command makes files. Just as you would make a .doc or a .txt using a PC desktop, the touch command makes empty files.  
+
+8. rm
+.
+The rm command - remove - like the rmdir command is meant to remove files 
+.
+9. clear
+.
+The clear command does exactly what it says. 
+
+
+
