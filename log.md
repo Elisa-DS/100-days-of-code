@@ -49,7 +49,7 @@ know: reading and writing, attention to detail, and spotting differences. I’m 
 
 **Thoughts**
 I’ve received some DM in Instagram asking why I chose Python instead of R. In my case my university suggest to learn Python first because it will be more used at classes but if I have time I can learn both. Then, I decided research about the differences from Python and R. I found the opinion of Steinert-Threlkeld interesting. 
-Check it below 
+Check it below:
 . 
 R is the programming language most familiar to political scientists. An extension of S, a language developed at Bell Laboratories in the 1970s, R was designed by statisticians. While it can
 perform many general computation functions, its comparative advantage is in
@@ -132,5 +132,6 @@ The rm command - remove - like the rmdir command is meant to remove files
 .
 The clear command does exactly what it says. 
 
+**Thoughts** Seems scaring to use terminal command but once you get used to it, it's really makes your life easier and makes you understand much more about your computer and how computer works as whole, for someone that is coming from health area worth take same time learning it.
 
 
