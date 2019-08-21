@@ -88,46 +88,47 @@ Yesterday wasn’t easy day for me. I’m still struggling to understand the way
 .
 Some tips to help when you feel overwhelmed:
 
-Don’t compare your progress to others.
+**1**Don’t compare your progress to others.
 
-Take breaks when necessary.
+**2**Take breaks when necessary.
 
-Don’t give up, follow your own pace (This is really important because when you look at other people work you normally feel that you're going slower but it is just impression).
+**3**Don’t give up, follow your own pace (This is really important because when you look at other people work you normally feel that you're going slower but it is just impression).
 
 
-{9/100} Day 9 of #100DaysofCode -  Happy Father’s Day! To my dad, to my husband and all amazing dads out there. 
-Today it was a good weather here in London, then we could enjoy a picnic at park,
+**{9/100} Day 9 of #100DaysofCode -  14 of June **
 
-As the book - Learn Python 3 the Hard Way says to use terminal, I had to learn some basic commands that I’ll show here 
+**Today's Progress**: As the book - Learn Python 3 the Hard Way says to use terminal, I had to learn some basic commands that 
 
-1. ls
+I’ll show here: 
+
+**1. ls**
 The ls command - the list command 
 .
-2. cd
+**2. cd**
 .
 The cd command - change directory - will allow the user to change between file directories. 
 .
-3. mv
+**3. mv**
 .
 The mv command - move - allows a user to move a file to another folder or directory. 
 .
-4. mkdir
+**4. mkdir**
 .
 The mkdir - make directory - command allows the user to make a new directory. 
 .
-6. rmdir
+**6. rmdir**
 .
 The rmdir - remove directory -
 .
-7. touch
+**7. touch**
 .
 The touch command -  Just as the mkdir command makes directories, the touch command makes files. Just as you would make a .doc or a .txt using a PC desktop, the touch command makes empty files.  
 
-8. rm
+**8. rm**
 .
 The rm command - remove - like the rmdir command is meant to remove files 
 .
-9. clear
+**9. clear**
 .
 The clear command does exactly what it says. 
 
