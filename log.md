@@ -159,7 +159,7 @@ list_name[ :3]
 If you want to select the last 3
 list_name[-3:]
 
-###Day 11 of #100DaysofCode - 
+### Day 11 of #100DaysofCode - 
 
 **Today's Progress**:I coded some challenges in Python from Codecademy and I’ve started learning SQL.
 
@@ -173,7 +173,7 @@ Data Scientist might also use to create their own table or test environment. Let
 .
 Data scientists, though the number one way that they’re using SQL is really to be able to retrieve their data for analysis, they might do a little of the analysis using SQL. However, the main thing they’re using SQL for is for data retrieval.
 
-### Day 12 of #100DaysofCode - Happy Friday!
+### Day 12 of #100DaysofCode - 
 
 **Today's Progress**:I’ve been studying about SQL and now I’m checking all the recommended resources for SQL from my previous post. Thanks for all that shared your experience and made recommendations.
 .
@@ -197,7 +197,7 @@ A statement can be written all on one line, or split up across multiple lines if
 
 **Thoughts** SQL is more interesting than I thought it would be.
 
-### Day 13-14 of #100DaysofCode - How was your weekend?
+### Day 13-14 of #100DaysofCode - 
 
 **Today's Progress** Reading Statistics book from library.
 
