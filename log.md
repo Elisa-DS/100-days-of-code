@@ -138,4 +138,73 @@ The clear command does exactly what it says.
 
 **Thoughts** Seems scaring to use terminal command but once you get used to it, it's really makes your life easier and makes you understand much more about your computer and how computer works as whole, for someone that is coming from health area worth take same time learning it.
 
+### Day 10 of #100DaysofCode - 
+
+**Thoughts** I can’t believe today is my 10th day of this challenge, time is flying but I already can see that I’m becoming more consistent in studying and coding.
+
+**Today's Progress**:
+I’ve been learning about slicing list yesterday:
+Slicing list I -create selection from a list 
+list_name[start : end]
+.
+Start - is the index of the first element that we want to include in our selection
+.
+End - is the index of one more than the last index that we want to include
+.
+Slicing list II
+.
+When starting in the beginning of the list, it is also valid to omit the 0:
+list_name[ :3]
+.
+If you want to select the last 3
+list_name[-3:]
+
+###Day 11 of #100DaysofCode - 
+
+**Today's Progress**:I coded some challenges in Python from Codecademy and I’ve started learning SQL.
+
+**Thoughts** Today was rainy day in London, this is not good but it makes me more productive.
+.
+Is SQL (Structure Query Language) needed  to be Data Scientist?
+.
+Data Scientist has to be able to retrieve data. We know that we can’t do anything until we actually have the data to work with. We need a way to go and get that data.
+.
+Data Scientist might also use to create their own table or test environment. Let’s say you’ve built a model and you want to deploy that, and you want to add it back to the table. You may need to create your own table or test environment to add that into.
+.
+Data scientists, though the number one way that they’re using SQL is really to be able to retrieve their data for analysis, they might do a little of the analysis using SQL. However, the main thing they’re using SQL for is for data retrieval.
+
+### Day 12 of #100DaysofCode - Happy Friday!
+
+**Today's Progress**:I’ve been studying about SQL and now I’m checking all the recommended resources for SQL from my previous post. Thanks for all that shared your experience and made recommendations.
+.
+I’ve been learning:
+.
+-You can have multiple database on the server.
+.
+-Similar to Excel Spreadsheet ( easy to understand), each Database may contain multiple tables, and each table contains many rows and columns.
+.
+Statements
+.
+- CREATE TABLE is a clause. Clauses perform specific tasks in SQL. By convention, clauses are written in capital letters. Clauses can also be referred to as commands.
+- table_name refers to the name of the table that the command is applied to.
+- (column_1 data_type, column_2 data_type, column_3 data_type) is a parameter. A parameter is a list of columns, data types, or values that are passed to a clause as an argument. Here, the parameter is a list of column names and the associated data type.
+.
+The structure of SQL statements vary. 
+.
+The number of lines used does not matter. 
+.
+A statement can be written all on one line, or split up across multiple lines if it makes it easier to read. 
+
+**Thoughts** SQL is more interesting than I thought it would be.
+
+### Day 13-14 of #100DaysofCode - How was your weekend?
+
+**Today's Progress** Reading Statistics book from library.
+
+**Thoughts** It's hard for me study on weekends for many reasons but I'm trying improve my time on weekends too.
+I spent my Saturday and Sunday reading…reading…and enjoying with my family!
+That’s how I normally spend my Saturdays and Sundays… I go to the park that’s close to my home and my children play around while I try read my books, that’s not always possible as I need to check from time to  time what they are doing or they call me but at least I try and I think they’re getting used to it, every time I do it again they call less for mum! 
+
+
+
 
